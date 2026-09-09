@@ -1,2 +1,5 @@
 # Ignore all files in any directory named baseball
 baseball/
+
+# Ignore all files in any directory named .ipynb_checkpoints
+.ipynb_checkpoints
